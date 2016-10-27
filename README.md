@@ -1,2 +1,0 @@
-# examples_Qt5_OpenCV3_ROS_OpenGL_cmake
-examples_Qt5_OpenCV3_ROS_OpenGL_cmake
