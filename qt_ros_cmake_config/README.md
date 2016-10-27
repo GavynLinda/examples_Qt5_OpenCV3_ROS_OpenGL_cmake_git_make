@@ -34,3 +34,6 @@ the qt build system will create them for you in the auto generated `build` direc
 
 Oh and it contains a MainWindow.[ui | h | cpp] example complete with ros node initialization
 and publishing. Just `rosrun turtlesim turtlesim_node` along with this program.
+
+
+qt4 conflict with boost 1.58
