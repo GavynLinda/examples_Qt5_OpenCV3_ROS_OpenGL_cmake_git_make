@@ -1,0 +1,9 @@
+ISSUE:
+$ ssh-add
+Could not open a connection to your authentication agent.
+
+answer:
+$ ps aux | grep ssh
+$ eval $(ssh-agent)
+$ ssh-add
+Identity added: /c/Users/LQL/.ssh/id_rsa (/c/Users/LQL/.ssh/id_rsa)
